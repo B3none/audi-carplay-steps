@@ -1,3 +1,5 @@
+## CarPlay / Android Auto (preinstalled)
+
 Here are the steps to update your Audi MMI MIB2 system with the custom firmware:
 
 1. **Check System Information:**
@@ -38,3 +40,7 @@ Here are the steps to update your Audi MMI MIB2 system with the custom firmware:
    - Connect your smartphone using a USB cable and follow the prompts to enable CarPlay or Android Auto.
 
 Let me know if you need any further assistance!
+
+## Maps
+
+For the maps update you'll need to delete everything at the root of the SD card except the maps-2024 directory, copy all of those contents out to the root of the SD card and then you can update it using the cars maps update functionality
