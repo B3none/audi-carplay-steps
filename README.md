@@ -2,6 +2,9 @@
 
 Here are the steps to update your Audi MMI MIB2 system with custom firmware:
 
+# Red enginnering menu
+![Red Engineering Menu](./redmenu.jpg)
+
 ## Step 1: Check System Information
 1. Turn on the MMI system.
 2. Press the **Menu** button, navigate to **Setup MMI**, and scroll down to **Version Information** to confirm that your software version starts with **MHI2**.
