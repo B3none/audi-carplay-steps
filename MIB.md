@@ -1,6 +1,6 @@
 # Audi MIB Toolbox Installation Guide
 
-Follow these steps to install the MIB Toolbox in an Audi Q7 with an MMI MIB2-based infotainment system.
+Follow these steps to install the MIB Toolbox in an Audi with an MMI MIB2-based infotainment system.
 
 ## Red engineering menu
 ![Red Engineering Menu](./redmenu.jpg)
