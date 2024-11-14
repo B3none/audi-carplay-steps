@@ -28,6 +28,7 @@ Follow these steps to install the MIB Toolbox in an Audi with an MMI MIB2-based 
 3. In the Green Menu, locate and select **MIB**:
    - Review installed options and explore system information.
 4. Look for the section relating to carplay / audi connect and activate it
+   - It's normally found under `patch_unit_aio` -> `carplay_activation`
 
 ## Step 4: Exit the MIB Toolbox
 1. To exit, press the **Menu** button.
