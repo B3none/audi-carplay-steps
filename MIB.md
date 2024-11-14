@@ -2,6 +2,9 @@
 
 Follow these steps to install the MIB Toolbox in an Audi Q7 with an MMI MIB2-based infotainment system.
 
+## Red engineering menu
+![Red Engineering Menu](./redmenu.jpg)
+
 ## Step 1: Check if SW Train is Supported
 1. Enter the Red Engineering Menu:
    - Push the left scroll wheel switch and pull the right scroll wheel switch.
@@ -24,6 +27,7 @@ Follow these steps to install the MIB Toolbox in an Audi Q7 with an MMI MIB2-bas
    - Push both the left and right scroll wheel switches forward simultaneously for about 3 seconds.
 3. In the Green Menu, locate and select **MIB**:
    - Review installed options and explore system information.
+4. Look for the section relating to carplay / audi connect and activate it
 
 ## Step 4: Exit the MIB Toolbox
 1. To exit, press the **Menu** button.
