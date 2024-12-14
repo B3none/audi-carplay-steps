@@ -26,7 +26,7 @@ Follow these steps to install the MIB Toolbox in an Audi with an MMI MIB2-based 
 2. Move the contents from the `mib` folder to the root of the SD card.
 3. REPEAT STEP 2.
 
-## Step 4: Move the virtual dash update to the root of the SD card
+## Step 4: Move the virtual dash update to the root of the SD card (This may not be required depdning on the vurrent version of your car's virtual dash)
 1. Move everything except `maps-2024` and `virtual-dash` into a new folder.
 2. Move the contents from the `virtual-dash` folder to the root of the SD card.
 3. REPEAT STEP 2.
