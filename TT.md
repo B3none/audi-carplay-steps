@@ -26,12 +26,7 @@ Follow these steps to install the MIB Toolbox in an Audi with an MMI MIB2-based 
 2. Move the contents from the `mib` folder to the root of the SD card.
 3. REPEAT STEP 2.
 
-## Step 4: Move the virtual dash update to the root of the SD card (This may not be required depdning on the vurrent version of your car's virtual dash)
-1. Move everything except `maps-2024` and `virtual-dash` into a new folder.
-2. Move the contents from the `virtual-dash` folder to the root of the SD card.
-3. REPEAT STEP 2.
-
-## Step 5: Verify Installation and Access the Green Engineering Menu
+## Step 4: Verify Installation and Access the Green Engineering Menu
 1. After the final reboot, let the system load for about a minute.
 2. Enter the Green Engineering Menu:
    - Push both the left and right scroll wheel switches forward simultaneously for about 3 seconds.
@@ -41,9 +36,14 @@ Follow these steps to install the MIB Toolbox in an Audi with an MMI MIB2-based 
    - It's normally found under `patch_unit_aio` -> `PATCH NOW`
    - Carplay should be enabled / activated during this process for you
 
-## Step 4: Exit the MIB Toolbox
+## Step 5: Exit the MIB Toolbox
 1. To exit, press the **Menu** button.
 2. Return to the normal infotainment screen.
+
+## Step 6: Move the virtual dash update to the root of the SD card (This may not be required depending on the current version of your car's virtual dash)
+1. Move everything except `maps-2024` and `virtual-dash` into a new folder.
+2. Move the contents from the `virtual-dash` folder to the root of the SD card.
+3. REPEAT STEP 2.
 
 ---
 
